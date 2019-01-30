@@ -1,6 +1,6 @@
 # ionic-cli-command
 
-1. Get list of emulators__
+1. Get list of emulators<br />
 ionic cordova emulate --list
 
 2. Start emulator<br />
