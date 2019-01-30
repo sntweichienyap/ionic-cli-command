@@ -1,8 +1,7 @@
 # ionic-cli-command
 
-1. Get list of emulators
-
+1. Get list of emulators__
 ionic cordova emulate --list
 
-2. Start emulator
-ionic cordova run android --target="emulator_20190124" -l
+2. Start emulator__
+ionic cordova run android  -l --target="ionic_emulator_1"
