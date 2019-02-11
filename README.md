@@ -9,4 +9,4 @@ ionic cordova run android  -l --target="ionic_emulator_1"
 2. Start app in browser with console log<br />
 ionic serve -c
 
-nn
+
